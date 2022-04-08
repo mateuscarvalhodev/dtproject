@@ -5,7 +5,7 @@ export function Header () {
     return(
         <>        
             <Container>
-                <Content>
+            <Content>
             <img src= {moneyImg} alt="Money Project" />
             <button type="button">
                 New Transaction
